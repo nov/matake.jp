@@ -868,3 +868,7 @@ button,
 .title td {
   text-align: left;
 }
+.avatar img {
+  width: 122px;
+  height: 122px;
+}
