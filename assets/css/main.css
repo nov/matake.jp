@@ -872,3 +872,15 @@ button,
   width: 122px;
   height: 122px;
 }
+ul.icons {
+  margin-bottom: .8em;
+}
+ul.icons li {
+  padding: 0.675em 0.3em;
+}
+ul.icons li a {
+  width: 3.25em;
+  height: 3.25em;
+  line-height: 3.25em;
+  text-indent: 3.25em;
+}
